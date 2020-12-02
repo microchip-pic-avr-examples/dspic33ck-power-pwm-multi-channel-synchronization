@@ -59,7 +59,7 @@
  *   By pressing push button [USER], the three PWM becomes a three-phase system. 
  *   By pressing [USER] again, the three PWMs channels are in phase again.
  *   All channels are configured in complementary output mode. 
- *   The frequency and duty ratio of two PWM channels will always remain to 200 khz and 30% respectively
+ *   The frequency and duty ratio of the three PWM channels will always remain to 200 khz and 30% respectively
  * 
  * Please note:
  *   This code example can be run on dsPIC33CK as well as on dsPIC33CH
