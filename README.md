@@ -50,7 +50,7 @@ Code example for dsPIC33CK and dsPIC33CH devices introducing the basic configura
 <br><center><img src="images/dm330029.jpg" width="400"></center>
 
 ## Operation
-After the device has been programmed and the MCU starts up, PWM generators #1,#2, and #3 are generating three complementary pairs of 200 kHz 30% duty PWM waveforms at the PWM1H/PWM1L, PWM2H/PWM2L and PWM3H/PWM3L outputs respectively. These three complementary pairs of PWM waveforms are in phase to each other.
+After the device has been programmed and the MCU starts up, PWM generators #1, #2, and #3 are generating three complementary pairs of 200 kHz and 30% duty cycle PWM waveforms at the PWM1H/PWM1L, PWM2H/PWM2L and PWM3H/PWM3L outputs respectively. These three complementary pairs of PWM waveforms are in phase to each other.
 
 <br><center><img src="images/inPhase.png" width="400"></center><br>
 *Three in-phase complementary PWM pairs with 200 kHz and 30% Duty Cycle Switching Frequency Output*
