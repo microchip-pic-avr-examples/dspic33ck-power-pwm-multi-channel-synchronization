@@ -12,7 +12,7 @@
 
 ## Summary
 Learning how to use the High Resolution PWM Module of dsPIC33C MP devices, Lab 5:
-Code example for dsPIC33CK and dsPIC33CH devices introducing the basic configuration of the high-resolution PWM module using three PWM generator channels generating three in-phase and multi-phase PWM waveforms
+Code example for dsPIC33CK and dsPIC33CH devices introducing the basic configuration of the high-resolution PWM module using three PWM generator channels generating three multi-phase PWM waveforms
 
 - - -
 
