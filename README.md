@@ -50,12 +50,12 @@ Code example for dsPIC33CK and dsPIC33CH devices introducing the basic configura
 <br><center><img src="images/dm330029.jpg" width="400"></center>
 
 ## Operation
-After the device has been programmed and the MCU starts up, PWM generators #1, #2, and #3 are generating three complementary pairs of 200 kHz and 30% duty cycle PWM waveforms at the PWM1H/PWM1L, PWM2H/PWM2L and PWM3H/PWM3L outputs respectively. These three complementary pairs of PWM waveforms are in phase to each other.
+After the device has been programmed and the MCU starts up, PWM generators #1, #2, and #3 are generating three complementary pairs of 200 kHz and 30% duty cycle PWM waveforms at the PWM1H/PWM1L, PWM2H/PWM2L and PWM3H/PWM3L outputs respectively. These three complementary pairs of PWM waveforms are in-phase to each other.
 
 <br><center><img src="images/inPhase.png" width="400"></center><br>
 *Three in-phase complementary PWM pairs with 200 kHz and 30% Duty Cycle Switching Frequency Output*
 
-By pressing the on-board push button *USER* on the Digital Power Development Board, the three in-phase complementary PWM pairs is changed to a three-phase PWM system with a phase angle separation of 120 degrees, that is PWM2H/PWM2L pair is advanced by 120 degrees from PWM1H/PWM1L and PWM3H/PWM3L is advanced by 120 degrees from PWM2H/PWM2L. The system is toggled for in-phase PWMs to mulit-phase PWMs with the USER switch.
+By pressing the on-board push button *USER* on the Digital Power Development Board, the three in-phase system is changed to a three-phase PWM system with a phase angle separation of 120 degrees, where the PWM2H/PWM2L pair is advanced by 120 degrees from PWM1H/PWM1L and PWM3H/PWM3L is advanced by 120 degrees from PWM2H/PWM2L. The system is toggled for in-phase PWMs to multi-phase PWMs with the USER switch.
 <br><center><img src="images/threePhase.png" width="400"></center><br>
 *Three multiphase complementary PWM pairs with 200kHz and 30% Duty Cycle Switching Frequency Output*
 
