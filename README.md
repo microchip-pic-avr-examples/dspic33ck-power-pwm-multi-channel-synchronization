@@ -55,7 +55,7 @@ After the device has been programmed and the MCU starts up, PWM generators #1, #
 <br><center><img src="images/inPhase.png" width="400"></center><br>
 *Three in-phase complementary PWM pairs with 200 kHz and 30% Duty Cycle Switching Frequency Output*
 
-By pressing the on-board push button *USER* on the Digital Power Development Board, the three in-phase system is changed to a three-phase PWM system with a phase angle separation of 120 degrees, where the PWM2H/PWM2L pair is advanced by 120 degrees from PWM1H/PWM1L and PWM3H/PWM3L is advanced by 120 degrees from PWM2H/PWM2L. The system is toggled for in-phase PWMs to multi-phase PWMs with the USER switch.
+By pressing the on-board push button *USER* on the Digital Power Development Board, the three in-phase system is changed to a three-phase PWM system with a phase angle separation of 120 degrees, where the PWM2H/PWM2L pair is advanced by 120 degrees from PWM1H/PWM1L and PWM3H/PWM3L is advanced by 120 degrees from PWM2H/PWM2L. The system is toggled from in-phase PWMs to multi-phase PWMs with the USER switch.
 <br><center><img src="images/threePhase.png" width="400"></center><br>
 *Three multiphase complementary PWM pairs with 200kHz and 30% Duty Cycle Switching Frequency Output*
 
