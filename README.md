@@ -17,10 +17,10 @@ Code example for dsPIC33CK and dsPIC33CH devices introducing the basic configura
 - - -
 
 ## Related Documentation
-- [dsPIC33CK256MP508 Family Data Sheet](https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CK256MP508-Family-Data-Sheet-DS70005349G.pdf)
-- [dsPIC33CK256MP508 Family Silicon Errata and Data Sheet Clarification](https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CK256MP508-Family-Silicon-Errata-and-Data-Sheet-Clarification-DS80000796G.pdf)
-- [dsPIC33CH512MP508 Family Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH512MP508-Family-Data-Sheet-DS70005371D.pdf)
-- [dsPIC33CH512MP508 Family Silicon Errata and Data Sheet Clarification](http://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH512MP508-Family-Silicon-Errata-and-Data-Sheet-Clarification-DS80000805F.pdf)
+- [dsPIC33CK256MP508 Family Data Sheet](https://www.microchip.com/DS70005349)
+- [dsPIC33CK256MP508 Family Silicon Errata and Data Sheet Clarification](https://www.microchip.com/DS80000796)
+- [dsPIC33CH512MP508 Family Data Sheet](https://www.microchip.com/DS70005371)
+- [dsPIC33CH512MP508 Family Silicon Errata and Data Sheet Clarification](https://www.microchip.com/DS80000805)
 
 **Please always check for the latest data sheets on the respective product websites:**
 - [dsPIC33CK256MP508 Family](https://www.microchip.com/dsPIC33CK256MP508)
