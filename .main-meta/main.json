@@ -38,6 +38,9 @@
          "PWM",
          "TIMER"
       ],
+	  "subcategories":[
+		 "Power"
+	  ],
       "keywords":[
          "DSC",
          "dsPIC",
