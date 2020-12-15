@@ -35,17 +35,19 @@
          }
       },
       "peripherals":[
-         "GPIO",
          "PWM",
-	 "Timer"
+         "TIMER"
       ],
+	  "subcategories":[
+		 "Power"
+	  ],
       "keywords":[
-         "dsc",
-         "dspic",
-         "power",
-         "power-conversion",
-         "power-supply",
-         "smps"
+         "DSC",
+         "dsPIC",
+         "Power",
+         "Power Conversion",
+         "Power Supply",
+         "SMPS"
       ]
    }
 }
